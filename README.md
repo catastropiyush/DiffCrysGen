@@ -46,6 +46,10 @@ pip install -e .
 ## Quick Start
 For a simple walkthrough of generating materials and analyzing them, see the [DiffCrysGen Demo Notebook](./notebooks/DiffCrysGen-demo.ipynb).
 
+## Discovered Materials and Training Datasets
+
+The DFT-optimized crystal structures of final selected candidates as highlighted in the manuscript and the training datasets are available in this [Google Drive Folder](https://drive.google.com/drive/u/0/folders/12NP6U8Qu2mCQFrlrNSWvn7suxTvj658Z).
+
 ## License
 
 This project is licensed under the **MIT License**.
@@ -60,10 +64,10 @@ Developed by: [Sourav Mal](https://github.com/SouravMal) at Harish-Chandra Resea
 Please consider citing our work if you find it helpful:
 
 ```bibtex
-@misc{mal2025generativediffusionmodeldiffcrysgen,
-      title={Generative Diffusion Model DiffCrysGen Discovers Rare Earth-Free Magnetic Materials}, 
-      author={Sourav Mal and Nehad Ahmed and Subhankar Mishra and Prasenjit Sen},
-      year={2025},
+@misc{mal2026diffcrysgengenerativediffusionmodel,
+      title={DiffCrysGen: A Generative Diffusion Model for Accelerated Design of Inorganic Crystalline Materials}, 
+      author={Sourav Mal and Nehad Ahmed and Junaid Jami and Subhankar Mishra and Prasenjit Sen},
+      year={2026},
       eprint={2510.12329},
       archivePrefix={arXiv},
       primaryClass={cond-mat.mtrl-sci},
